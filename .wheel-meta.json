@@ -1,0 +1,22 @@
+{
+  "wheel_id": 422,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-101",
+  "project": "retaining-walls-canberra-suburb-guide-312b9df42b9326b8d128fa70f",
+  "parent_t1_ref": "retainingwallscanberra-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining walls canberra suburb guide",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-canberra-suburb-guide-312b9df42b9326b8d128fa70f/",
+  "tier": "T2",
+  "writeback_nonce": "0736aa84ac866bd2",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-canberra-aeaef5a2b50f570329b9aa2d4a7e9ed74b0739/",
+      "anchor": "retaining walls canberra explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
